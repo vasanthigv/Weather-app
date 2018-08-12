@@ -1,0 +1,41 @@
+[06-Jul-2018 06:22:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfully/public_html/weather/weather-app.php on line 148
+[06-Jul-2018 06:22:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfully/public_html/weather/weather-app.php on line 148
+[06-Jul-2018 06:22:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfully/public_html/weather/weather-app.php on line 148
+[06-Jul-2018 06:22:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfully/public_html/weather/weather-app.php on line 148
+[06-Jul-2018 06:47:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfully/public_html/weather/weather-app.php on line 148
+[06-Jul-2018 06:47:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfully/public_html/weather/weather-app.php on line 148
+[06-Jul-2018 06:52:56 UTC] PHP Parse error:  syntax error, unexpected 'cloudy' (T_STRING), expecting ',' or ';' in /home/sinfully/public_html/weather/weather-app.php on line 149
+[06-Jul-2018 06:52:58 UTC] PHP Parse error:  syntax error, unexpected 'cloudy' (T_STRING), expecting ',' or ';' in /home/sinfully/public_html/weather/weather-app.php on line 149
+[07-Jul-2018 10:27:37 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:27:39 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:27:46 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:27:54 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:28:08 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:28:30 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:29:04 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:29:17 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[07-Jul-2018 10:29:37 UTC] PHP Warning:  preg_match(): Unknown modifier ',' in /home/sinfully/public_html/weather/weather-app.php on line 201
+[16-Jul-2018 06:20:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:20:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:21:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:21:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:21:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:21:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:24:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:24:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:24:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:24:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:25:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:25:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:25:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:27:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/sinfully/public_html/weather/index.php on line 79
+[16-Jul-2018 06:27:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/sinfully/public_html/weather/index.php on line 79
+[16-Jul-2018 06:27:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/sinfully/public_html/weather/index.php on line 79
+[16-Jul-2018 06:33:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:33:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:34:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:34:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:35:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:35:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:37:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
+[16-Jul-2018 06:38:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sinfully/public_html/weather/index.php on line 76
